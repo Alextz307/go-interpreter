@@ -94,7 +94,3 @@ Before submitting a pull request, please make sure that:
 
 1. Your code passes all the tests.
 2. Your code follows the style guidelines.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
