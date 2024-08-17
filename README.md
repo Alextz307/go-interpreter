@@ -9,9 +9,7 @@ This repository contains the source code from the book *Writing an Interpreter i
 3. [Getting Started](#getting-started)
 4. [Usage](#usage)
 5. [Tests](#tests)
-6. [Contributing](#contributing)
-7. [License](#license)
-
+   
 ## Overview
 
 *Writing an Interpreter in Go* is a hands-on guide to creating an interpreter from scratch. The book is designed for programmers who are curious about how interpreters work and want to deepen their understanding by building one step by step.
@@ -85,12 +83,3 @@ go test ./...
 ```
 
 This will execute all tests in the repository and provide feedback on the code's correctness.
-
-## Contributing
-
-Contributions are welcome! If you find bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-Before submitting a pull request, please make sure that:
-
-1. Your code passes all the tests.
-2. Your code follows the style guidelines.
