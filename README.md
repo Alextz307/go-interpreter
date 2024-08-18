@@ -1,4 +1,4 @@
-# Writing an Interpreter in Go
+# Go-Interpreter
 
 This repository contains the source code from the book *Writing an Interpreter in Go* by Thorsten Ball. The book walks through the development of an interpreter for a simple programming language called Monkey, written in Go.
 
